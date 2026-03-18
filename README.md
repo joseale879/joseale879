@@ -1,15 +1,16 @@
-# 👨🏻‍💻 Jose Alejandro Montealegre Rodriguez
-
-
-
-
-GITHUB_USER: joseale879
-<br>
-EMAIL: monetealegrejose254@gmail.com
-<br>
+<!--
+CONFIG
+FULL_NAME: Juan David Pérez Gómez
+GITHUB_USER: juanperezdev
+EMAIL: juanperez@gmail.com
 CODE_ORGANIZATION: code-sena
+-->
 
+<h1 align="center">JOSE Alejandro Montealegre Rodriguez</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juanperezdev&label=Profile%20views&style=flat-square&color=brightgreen" alt="Profile views">
+</p>
 
 ---
 
