@@ -1,5 +1,14 @@
 # 👨🏻‍💻 Jose Alejandro Montealegre Rodriguez
 
+
+CONFIG
+FULL_NAME: Jose Alejandro Montealegre Rodriguez
+GITHUB_USER: joseale879
+EMAIL: monetealegrejose254@gmail.com
+CODE_ORGANIZATION: code-sena
+
+
+
 ---
 
 ## 📌 🚀 Sobre Mí  
