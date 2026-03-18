@@ -3,8 +3,11 @@
 
 
 FULL_NAME: Jose Alejandro Montealegre Rodriguez
+<br>
 GITHUB_USER: joseale879
+<br>
 EMAIL: monetealegrejose254@gmail.com
+<br>
 CODE_ORGANIZATION: code-sena
 
 
